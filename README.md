@@ -1,0 +1,2 @@
+# DzMusicPlayer
+DzMusicPlayer是使用libzplay和Duilib库，可播放各种格式音频的软件
