@@ -1,0 +1,22 @@
+//Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+//ICON
+//IDI_ICON_LOGO               ICON			"./res/icon.png"
+//XML
+IDXML_MAIN_PAGE 			XML		"./skin/main_ui.xml"
+
+//DZIMGRES
+
+CIRCLED_PLAY32.PNG		DZIMGRES		"./res/circled_play32.png"
+CIRCLED_PLAY64.PNG		DZIMGRES		"./res/circled_play64.png"
+END32.PNG			DZIMGRES		"./res/end32.png"
+END64.PNG			DZIMGRES		"./res/end64.png"
+MUSIC_RECORD96.PNG		DZIMGRES		"./res/music_record96.png"
+PAUSE_BUTTON32.PNG		DZIMGRES		"./res/pause_button32.png"
+PAUSE_BUTTON64.PNG		DZIMGRES		"./res/pause_button64.png"
+SKIP_TO_START32.PNG		DZIMGRES		"./res/skip_to_start32.png"
+SKIP_TO_START64.PNG		DZIMGRES		"./res/skip_to_start64.png"
+SMART_PLAYLIST32.PNG		DZIMGRES		"./res/smart_playlist32.png"
+SMART_PLAYLIST64.PNG		DZIMGRES		"./res/smart_playlist64.png"

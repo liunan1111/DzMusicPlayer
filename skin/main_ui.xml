@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<Window size="380,500" caption="0,0,0,32">
+	<!--Font size 9-->
+	<Font id="0" name="Segoe UI" size="12" bold="true"/>
+	<Font id="1" name="Segoe UI" size="12" bold="false"/>
+	<!--Font size 10-->
+	<Font id="2" name="Segoe UI" size="13" bold="false"/>
+	<Font id="3" name="Segoe UI" size="13" bold="true"/>
+	<!--Font size 11-->
+	<Font id="4" name="Segoe UI" size="15" bold="false"/>
+	<Font id="5" name="Segoe UI" size="15" bold="true"/>
+	<!--Font size xx-->
+	<Font id="6" name="Segoe UI" size="14" bold="false"/>
+	<Font id="7" name="Segoe UI" size="14" bold="true"/>
+	<!--8-->
+	<Font id="8" name="Segoe UI" size="21" bold="true"/>
+	<!--9-->
+	<Font id="9" name="Segoe UI" size="17" bold="true"/>
+	<!--10-->
+	<Font id="10" name="Segoe UI" size="24" bold="false"/>
+	<!--11-->
+	<Font id="11" name="Segoe UI" size="20" bold="false"/>
+	<!--12-->
+	<Font id="12" name="Segoe UI" size="14" bold="false"/>
+	<Font id="13" name="Segoe UI" size="17" bold="false"/>
+	
+
+	<HorizontalLayout name="meeting_chat" width="380" height="500" bkcolor="#FFFFFFFF" visible="true" >
+
+		<Button name="play" float="true" pos="170,400,0,0" height="32" width="32" 
+				normalimage="res='circled_play32.png' restype='DZIMGRES' source='0,0,32,32' dest='0,0,0,0'" 
+				pushedimage="res='pause_button32.png' restype='DZIMGRES' source='0,0,32,32' dest='0,0,0,0'" 
+				hotimage="res='circled_play32.png' restype='DZIMGRES' source='0,0,32,32' dest='0,0,0,0'" 
+			/>
+
+	</HorizontalLayout>
