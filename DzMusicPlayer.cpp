@@ -21,7 +21,7 @@ int APIENTRY _tWinMain(HINSTANCE hInstance,
 	DzMusicPlayerApp _app;
 	CPaintManagerUI::SetInstance(hInstance);
 	_app.Create(NULL, _T("Dz Music Player"), UI_WNDSTYLE_DIALOG, WS_EX_WINDOWEDGE);
-	_app.SetIcon(IDI_ICON_LOGO);
+//	_app.SetIcon(IDI_ICON_LOGO);
 
 	MSG msg;
 	while (GetMessage(&msg, NULL, 0, 0))
